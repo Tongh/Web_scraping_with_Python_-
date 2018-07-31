@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b35c6fbe-32b9-47f9-a183-b487d4ed51f2" name="Default" comment="" />
+    <list default="true" id="b35c6fbe-32b9-47f9-a183-b487d4ed51f2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Chapitre12_避开采集陷阱/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapitre12_避开采集陷阱/modifier_requests_head_12.2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/my_urllib.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/my_urllib.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,23 +16,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CSS_test2.2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapitre2_复杂HTML解析/CSS_test2.2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="my_urllib.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/my_urllib.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="45" column="19" lean-forward="true" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+            <state relative-caret-position="469">
+              <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
               <folding>
-                <element signature="e#115#149#0" expanded="true" />
+                <element signature="e#115#130#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my_relib.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/common/my_relib.py">
+      <file leaf-file-name="modifier_requests_head_12.2.1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapitre12_避开采集陷阱/modifier_requests_head_12.2.1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+            <state relative-caret-position="113">
+              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <folding>
+                <element signature="e#135#150#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scrape_one_domaine3.1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapitre3_开始采集/scrape_one_domaine3.1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+              <folding>
+                <element signature="e#128#165#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,6 +69,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -56,10 +88,12 @@
         <option value="$PROJECT_DIR$/common/my_rondomlib.py" />
         <option value="$PROJECT_DIR$/common/my_randomlib.py" />
         <option value="$PROJECT_DIR$/Project/Wechat_scrape/img_scrape_lib.py" />
-        <option value="$PROJECT_DIR$/common/my_urllib.py" />
         <option value="$PROJECT_DIR$/Chapitre2_复杂HTML解析/NavigatingTreesTest2.2.3.py" />
         <option value="$PROJECT_DIR$/Chapitre2_复杂HTML解析/ReWithBS2.4.py" />
         <option value="$PROJECT_DIR$/common/my_relib.py" />
+        <option value="$PROJECT_DIR$/Chapitre12_避开采集陷阱/modifier_requests_head_12.2.1.py" />
+        <option value="$PROJECT_DIR$/common/my_urllib.py" />
+        <option value="$PROJECT_DIR$/Chapitre3_开始采集/scrape_one_domaine3.1.py" />
       </list>
     </option>
   </component>
@@ -67,6 +101,7 @@
     <option name="width" value="969" />
     <option name="height" value="1200" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -88,6 +123,11 @@
               <item name="Web_scraping_with_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Web_scraping_with_Python" type="462c0819:PsiDirectoryNode" />
               <item name="Chapitre3_开始采集" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web_scraping_with_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web_scraping_with_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapitre12_避开采集陷阱" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Web_scraping_with_Python" type="b2602c69:ProjectViewProjectNode" />
@@ -138,25 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ReWithBS2.4">
-    <configuration name="CSS_test2.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Web_scraping_with_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapitre2_复杂HTML解析" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapitre2_复杂HTML解析/CSS_test2.2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.scrape_one_domaine3.1">
     <configuration name="NavigatingTreesTest2.2.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Web_scraping_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,7 +233,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="stable_use1.2.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="modifier_requests_head_12.2.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Web_scraping_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,30 +241,48 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapitre_1_urllib_basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapitre12_避开采集陷阱" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapitre_1_urllib_basic/stable_use1.2.3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapitre12_避开采集陷阱/modifier_requests_head_12.2.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="scrape_one_domaine3.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Web_scraping_with_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapitre3_开始采集" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapitre3_开始采集/scrape_one_domaine3.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.stable_use1.2.3" />
-      <item itemvalue="Python.CSS_test2.2" />
       <item itemvalue="Python.img_scrape_lib" />
       <item itemvalue="Python.NavigatingTreesTest2.2.3" />
       <item itemvalue="Python.ReWithBS2.4" />
+      <item itemvalue="Python.scrape_one_domaine3.1" />
+      <item itemvalue="Python.modifier_requests_head_12.2.1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scrape_one_domaine3.1" />
+        <item itemvalue="Python.modifier_requests_head_12.2.1" />
         <item itemvalue="Python.ReWithBS2.4" />
         <item itemvalue="Python.NavigatingTreesTest2.2.3" />
         <item itemvalue="Python.img_scrape_lib" />
-        <item itemvalue="Python.CSS_test2.2" />
-        <item itemvalue="Python.stable_use1.2.3" />
       </list>
     </recent_temporary>
   </component>
@@ -260,14 +300,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1296" height="1080" extended-state="6" />
+    <frame x="0" y="0" width="1299" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26588234" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.26525822" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3164179" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3164179" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -308,7 +348,7 @@
         <state relative-caret-position="405">
           <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
           <folding>
-            <element signature="e#115#149#0" expanded="true" />
+            <element signature="e#115#130#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -352,13 +392,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapitre2_复杂HTML解析/NavigatingTreesTest2.2.3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="11" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapitre2_复杂HTML解析/README">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -376,27 +409,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/common/my_relib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre3_开始采集/Kevin_Bacon">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre2_复杂HTML解析/NavigatingTreesTest2.2.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapitre2_复杂HTML解析/CSS_test2.2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="8" selection-start-line="62" selection-start-column="8" selection-end-line="62" selection-end-column="8" />
+        <state relative-caret-position="338">
+          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common/my_urllib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="45" column="19" lean-forward="true" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+        <state relative-caret-position="469">
+          <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
           <folding>
-            <element signature="e#115#149#0" expanded="true" />
+            <element signature="e#115#130#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/my_relib.py">
+    <entry file="file://$PROJECT_DIR$/Chapitre12_避开采集陷阱/modifier_requests_head_12.2.1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        <state relative-caret-position="113">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="e#135#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre3_开始采集/scrape_one_domaine3.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="e#128#165#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
