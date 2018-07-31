@@ -7,7 +7,8 @@
 # @FileName: img_scrape_lib.py
 #
 
-from common.my_urllib import *
+from common.my_urllib import get_requests
+from common.my_urllib import get_soup
 import re
 from os import chdir
 from os import mkdir
@@ -17,9 +18,12 @@ def download_all_img():
     imgpath = '/Users/shitong/Pictures/spyder/'
     url = input("输入网址：")
     ssl._create_default_https_context = ssl._create_unverified_context
-    html = get_html(url).read().decode("UTF-8")
-    bsObj = get_soup(html)
-    print(bsObj.prettify())
+    req = get_requests(url)
+    #bsObj = get_soup(req = req)
+    #imgs = bsObj.findAll("img")
+    #for it in imgs:
+    #    print(it["src"])
+    print(req.text)
 
 
 if __name__ == "__main__":

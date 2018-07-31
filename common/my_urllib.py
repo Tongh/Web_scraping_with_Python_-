@@ -16,13 +16,17 @@ import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
 
-def get_requests(url, session=None):
+def get_requests(url, session=None, head=None):
     if session is None:
         session = requests.Session()
-    headers = {
-        "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q = 0.9, image / webp, * / *;q = 0.8"
-        }
+    if head is None:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53",
+            #'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36 SE 2.X MetaSr 1.0',
+            "Accept": "text/html, application/xhtml+xml, application/xml;q=0.9, image/webp, */*;q=0.8"
+            }
+    else:
+        headers = head
     req = session.get(url, headers=headers)
     return req
 
