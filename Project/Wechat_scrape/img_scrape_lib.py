@@ -19,11 +19,8 @@ def download_all_img():
     url = input("输入网址：")
     ssl._create_default_https_context = ssl._create_unverified_context
     req = get_requests(url)
-    #bsObj = get_soup(req = req)
-    #imgs = bsObj.findAll("img")
-    #for it in imgs:
-    #    print(it["src"])
-    print(req.text)
+    bsObj = get_soup(req = req)
+    print(bsObj.prettify())
 
 
 if __name__ == "__main__":

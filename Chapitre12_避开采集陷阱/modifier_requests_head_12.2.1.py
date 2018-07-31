@@ -9,6 +9,7 @@
 
 import requests
 from bs4 import BeautifulSoup
+from common.my_urllib import get_soup
 
 """
     浏览器网络请求数据
@@ -24,7 +25,7 @@ from bs4 import BeautifulSoup
 """
     Python请求头：
     Accept-Encoding     identify
-    User-Agent      Python-urllib/3.4
+    User-Agent      Python-urllib/3.6
 """
 
 session = requests.Session()
@@ -36,4 +37,5 @@ url = "https://www.whatismybrowser.com/detect/what-http-headers-is-my-browser-se
 
 req = session.get(url, headers=headers)
 bsObj = BeautifulSoup(req.text, "lxml")
+bsObj = get_soup(url)
 print(bsObj.find("table", {"class": "table-striped"}).get_text)

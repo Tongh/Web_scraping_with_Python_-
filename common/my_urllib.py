@@ -27,7 +27,11 @@ def get_requests(url, session=None, head=None):
             }
     else:
         headers = head
-    req = session.get(url, headers=headers)
+    try:
+        req = session.get(url, headers=headers)
+    except BaseException as e:
+        print("BaseException", e.args)
+        return None
     return req
 
 def get_html(url):
@@ -38,7 +42,7 @@ def get_html(url):
         return None
     return html
 
-def get_soup(url = None, html = None, parse="lxml", req=None):
+def get_soup(url = None, html = None, parse="lxml", req=None, req_type="text"):
     if html is None:
         if req is None:
             if url is None:
@@ -47,7 +51,14 @@ def get_soup(url = None, html = None, parse="lxml", req=None):
             else:
                 html = get_html(url).read()
         else:
-            html = req.text
+            if req_type == "text":
+                html = req.text
+            elif req_type == "context":
+                html = req.content
+            elif req_type == "json":
+                html = req.json()
+            elif req_type == "raw":
+                html = req.raw
     bsObj = BeautifulSoup(html, parse)
     return bsObj
 
