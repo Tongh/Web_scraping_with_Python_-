@@ -8,57 +8,40 @@
 #
 
 import requests
-from urllib.request import urlopen
-from urllib.error import HTTPError
-from urllib.error import URLError
 from bs4 import BeautifulSoup
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
 
-def get_requests(url, session=None, head=None):
-    if session is None:
-        session = requests.Session()
-    if head is None:
+def get_requests(url,
+                 headers=None):
+    if headers is None:
         headers = {
             "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53",
-            #'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36 SE 2.X MetaSr 1.0',
-            "Accept": "text/html, application/xhtml+xml, application/xml;q=0.9, image/webp, */*;q=0.8"
-            }
-    else:
-        headers = head
+        # 手机端
+            # 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36 SE 2.X MetaSr 1.0',
+            "Accept": "text/html, application/xhtml+xml, application/xml;q=0.9, image/webp, */*;q=0.8"}
+    session = requests.Session()
     try:
         req = session.get(url, headers=headers)
     except BaseException as e:
-        print("BaseException", e.args)
-        return None
+        print("BaseException:", e.args)
+        return
     return req
 
-def get_html(url):
-    try:
-        html = urlopen(url)
-    except (HTTPError, URLError) as e:
-        print("URLError reason:", e.reason)
-        return None
+def get_html(url, req = None):
+    if req is None:
+        req = get_requests(url)
+    html = req.text
     return html
 
-def get_soup(url = None, html = None, parse="lxml", req=None, req_type="text"):
+def get_soup(url = None, html = None, parse="lxml"):
     if html is None:
-        if req is None:
-            if url is None:
-                print("Warning: get_soup() parameters are None")
-                return None
-            else:
-                html = get_html(url).read()
+        if url is None:
+            print("Warning: get_soup() parameters are None")
+            return None
         else:
-            if req_type == "text":
-                html = req.text
-            elif req_type == "context":
-                html = req.content
-            elif req_type == "json":
-                html = req.json()
-            elif req_type == "raw":
-                html = req.raw
+            html = get_html(url)
     bsObj = BeautifulSoup(html, parse)
     return bsObj
 

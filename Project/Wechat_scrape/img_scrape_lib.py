@@ -7,24 +7,22 @@
 # @FileName: img_scrape_lib.py
 #
 
-from common.my_urllib import get_requests
 from common.my_urllib import get_soup
 import re
 from os import chdir
 from os import mkdir
 import ssl
 
-def download_all_img():
+def download_all_img(url):
     imgpath = '/Users/shitong/Pictures/spyder/'
-    url = input("输入网址：")
-    ssl._create_default_https_context = ssl._create_unverified_context
-    req = get_requests(url)
-    bsObj = get_soup(req = req)
-    print(bsObj.prettify())
-
+    bsObj = get_soup(url)
+    title = bsObj.title.get_text().strip()
 
 if __name__ == "__main__":
-    download_all_img()
+    # https://mp.weixin.qq.com/s/biRIlYIiN2JvoP2amBYYkg
+    url = input("输入网址：").strip()
+    ssl._create_default_https_context = ssl._create_unverified_context
+    download_all_img(url)
 
 
 
