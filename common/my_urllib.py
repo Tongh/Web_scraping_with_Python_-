@@ -13,8 +13,7 @@ import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
 
-def get_requests(url,
-                 headers=None):
+def get_requests(url, headers=None):
     if headers is None:
         headers = {
             "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537.53",
@@ -26,6 +25,7 @@ def get_requests(url,
         req = session.get(url, headers=headers)
     except BaseException as e:
         print("BaseException:", e.args)
+        print("url:", url)
         return
     return req
 
@@ -45,7 +45,7 @@ def get_soup(url = None, html = None, parse="lxml"):
     bsObj = BeautifulSoup(html, parse)
     return bsObj
 
-def get_title(url = None, html = None, bsObj=None):
+def get_title(url = None, html = None, bsObj = None):
     if bsObj is None:
         if html is None:
             if url is None:

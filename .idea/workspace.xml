@@ -2,9 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b35c6fbe-32b9-47f9-a183-b487d4ed51f2" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrape_by_internet_3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrapy_wiki_spider_3_4/wikiSpider/wikiSpider/spiders/articleSpider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project/Wechat_scrape/img_scrape_lib.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Wechat_scrape/img_scrape_lib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapitre3_开始采集/Kevin_Bacon" beforeDir="false" afterPath="$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/Kevin_Bacon" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapitre3_开始采集/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapitre3_开始采集/scrape_all_site_3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrape_all_site_3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapitre3_开始采集/scrape_by_internet_3.3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapitre3_开始采集/scrape_one_domaine3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrape_one_domaine3.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/my_urllib.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/my_urllib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/beautifulsoup4-4.6.1.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/beautifulsoup4-4.6.1.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/beautifulsoup4-4.6.1.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/beautifulsoup4-4.6.1.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/beautifulsoup4-4.6.1.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/bs4/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/bs4/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/bs4/builder/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/bs4/builder/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/bs4/element.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/bs4/element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/bs4/tests/test_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/bs4/tests/test_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2018.4.16.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2018.4.16.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2018.4.16.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2018.4.16.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2018.4.16.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2018.4.16.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2018.4.16.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi-2018.4.16.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi/cacert.pem" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/certifi/cacert.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml-4.2.3.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml-4.2.3.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml-4.2.3.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml-4.2.3.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml-4.2.3.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/_elementpath.cpython-36m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/_elementpath.cpython-36m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/builder.cpython-36m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/builder.cpython-36m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/etree.cpython-36m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/etree.cpython-36m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/etree.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/etree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/etree_api.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/etree_api.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/clean.cpython-36m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/clean.cpython-36m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/diff.cpython-36m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/html/diff.cpython-36m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/lxml-version.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/includes/lxml-version.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/lxml.etree.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/lxml.etree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/lxml.etree_api.h" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/lxml.etree_api.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/objectify.cpython-36m-darwin.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/lxml/objectify.cpython-36m-darwin.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/appdirs.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/appdirs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/py31compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/pkg_resources/py31compat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.0.0.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.0.0.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.0.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.0.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.0.0.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.0.0.dist-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.0.0.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.0.0.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools-40.0.0.dist-info/zip-safe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/build_meta.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/build_meta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/bdist_egg.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/bdist_egg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/easy_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/easy_install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/egg_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/egg_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/upload.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/command/upload.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/extern/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/extern/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/msvc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/msvc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/pep425tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/setuptools/pep425tags.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +84,74 @@
       <file leaf-file-name="CSS_test2.2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapitre2_复杂HTML解析/CSS_test2.2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+            <state relative-caret-position="446">
+              <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrapy_wiki_spider_3_4/wikiSpider/wikiSpider/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="articleSpider.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrapy_wiki_spider_3_4/wikiSpider/wikiSpider/spiders/articleSpider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="58" lean-forward="true" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NavigatingTreesTest2.2.3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapitre2_复杂HTML解析/NavigatingTreesTest2.2.3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReWithBS2.4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapitre2_复杂HTML解析/ReWithBS2.4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scrapetest1.1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapitre_1_urllib_basic/scrapetest1.1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stable_use1.2.3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapitre_1_urllib_basic/stable_use1.2.3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -27,46 +159,10 @@
       <file leaf-file-name="my_urllib.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common/my_urllib.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            <state relative-caret-position="675">
+              <caret line="47" column="53" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="53" />
               <folding>
                 <element signature="e#115#130#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scrape_by_internet_3.3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapitre3_开始采集/scrape_by_internet_3.3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
-              <folding>
-                <element signature="e#128#165#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="img_scrape_lib.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Project/Wechat_scrape/img_scrape_lib.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-              <folding>
-                <element signature="e#119#156#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scrape_one_domaine3.1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapitre3_开始采集/scrape_one_domaine3.1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-              <folding>
-                <element signature="e#128#165#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,7 +185,6 @@
       <list>
         <option value="$PROJECT_DIR$/Chapitre_1_urllib_basic/scrapetest.py" />
         <option value="$PROJECT_DIR$/Chapitre_1_urllib_basic/beautifulsoupTest1.2.2.py" />
-        <option value="$PROJECT_DIR$/Chapitre_1_urllib_basic/stable_use1.2.3.py" />
         <option value="$PROJECT_DIR$/Chapitre_1_urllib_basic/README" />
         <option value="$PROJECT_DIR$/Chapitre2_复杂HTML解析/CSS_test.py" />
         <option value="$PROJECT_DIR$/Chapitre_1_urllib_basic/scrapetest1.1.py" />
@@ -104,16 +199,25 @@
         <option value="$PROJECT_DIR$/Chapitre3_开始采集/scrape_one_domaine3.1.py" />
         <option value="$PROJECT_DIR$/Chapitre3_开始采集/scrape_all_site_3.2.py" />
         <option value="$PROJECT_DIR$/Chapitre12_避开采集陷阱/modifier_requests_head_12.2.1.py" />
-        <option value="$PROJECT_DIR$/Chapitre3_开始采集/scrape_by_internet_3.3.py" />
         <option value="$PROJECT_DIR$/Project/Wechat_scrape/test.py" />
-        <option value="$PROJECT_DIR$/common/my_urllib.py" />
         <option value="$PROJECT_DIR$/Project/Wechat_scrape/img_scrape_lib.py" />
+        <option value="$PROJECT_DIR$/common/my_urllib.py" />
+        <option value="$PROJECT_DIR$/Chapitre3_开始采集/scrape_by_internet_3.3.py" />
+        <option value="$PROJECT_DIR$/Chapitre_1_urllib_basic/stable_use1.2.3.py" />
+        <option value="$PROJECT_DIR$/Chapitre3_开始采集/scrapy_lib_3.4.py" />
+        <option value="$PROJECT_DIR$/Chapitre3_开始采集/scrapy_wiki_spider_3.4/wikiSpider/wikiSpider/items.py" />
+        <option value="$PROJECT_DIR$/Chapitre3_开始采集/scrapy_wiki_spider_3.4/wikiSpider/wikiSpider/spiders/articleSpider.py" />
+        <option value="$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrapy_wiki_spider_3.4/wikiSpider/wikiSpider/spiders/articleSpider.py" />
+        <option value="$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrapy_wiki_spider_3_4/wikiSpider/wikiSpider/spiders/articleSpider.py" />
+        <option value="$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/__init__.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1094" />
-    <option name="height" value="1200" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="50" />
+    <option name="y" value="22" />
+    <option name="width" value="1870" />
+    <option name="height" value="1178" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -137,7 +241,37 @@
             <path>
               <item name="Web_scraping_with_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Web_scraping_with_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapitre3_开始采集" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapitre3_Kai_Shi_Cai_Ji" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web_scraping_with_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web_scraping_with_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapitre3_Kai_Shi_Cai_Ji" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_wiki_spider_3_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web_scraping_with_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web_scraping_with_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapitre3_Kai_Shi_Cai_Ji" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_wiki_spider_3_4" type="462c0819:PsiDirectoryNode" />
+              <item name="wikiSpider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web_scraping_with_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web_scraping_with_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapitre3_Kai_Shi_Cai_Ji" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_wiki_spider_3_4" type="462c0819:PsiDirectoryNode" />
+              <item name="wikiSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="wikiSpider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Web_scraping_with_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Web_scraping_with_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapitre3_Kai_Shi_Cai_Ji" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy_wiki_spider_3_4" type="462c0819:PsiDirectoryNode" />
+              <item name="wikiSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="wikiSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Web_scraping_with_Python" type="b2602c69:ProjectViewProjectNode" />
@@ -193,7 +327,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.img_scrape_lib">
+  <component name="RunManager" selected="Python.stable_use1.2.3">
     <configuration name="img_scrape_lib" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Web_scraping_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,24 +364,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="scrape_all_site_3.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Web_scraping_with_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapitre3_开始采集" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapitre3_开始采集/scrape_all_site_3.2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="scrape_by_internet_3.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Web_scraping_with_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,6 +377,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapitre3_开始采集/scrape_by_internet_3.3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="stable_use1.2.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Web_scraping_with_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapitre_1_urllib_basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapitre_1_urllib_basic/stable_use1.2.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,17 +421,17 @@
     <list>
       <item itemvalue="Python.img_scrape_lib" />
       <item itemvalue="Python.modifier_requests_head_12.2.1" />
-      <item itemvalue="Python.scrape_all_site_3.2" />
       <item itemvalue="Python.scrape_by_internet_3.3" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.stable_use1.2.3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.stable_use1.2.3" />
+        <item itemvalue="Python.scrape_by_internet_3.3" />
         <item itemvalue="Python.img_scrape_lib" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.scrape_by_internet_3.3" />
         <item itemvalue="Python.modifier_requests_head_12.2.1" />
-        <item itemvalue="Python.scrape_all_site_3.2" />
       </list>
     </recent_temporary>
   </component>
@@ -315,17 +449,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1126" height="1200" extended-state="6" />
+    <frame x="47" y="22" width="1873" height="1178" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19004525" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18358532" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.2488889" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.24869928" />
       <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Python Console" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="0" visible="true" weight="0.3293247" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32935324" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32839963" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -341,6 +475,99 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Chapitre_1_urllib_basic/scrapetest1.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre_1_urllib_basic/stable_use1.2.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/my_urllib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="47" column="53" lean-forward="true" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="53" />
+          <folding>
+            <element signature="e#115#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre2_复杂HTML解析/CSS_test2.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/my_urllib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+          <folding>
+            <element signature="e#115#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrape_one_domaine3.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrape_by_internet_3.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="79" column="23" lean-forward="true" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre2_复杂HTML解析/CSS_test2.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/my_urllib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="e#115#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrape_by_internet_3.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrape_one_domaine3.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Wechat_scrape/img_scrape_lib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapitre2_复杂HTML解析/CSS_test2.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -358,23 +585,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapitre3_开始采集/scrape_by_internet_3.3.py">
+    <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrape_by_internet_3.3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="e#128#165#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapitre3_开始采集/scrape_one_domaine3.1.py">
+    <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrape_one_domaine3.1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
-          <folding>
-            <element signature="e#128#165#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -382,9 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-          <folding>
-            <element signature="e#119#156#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -405,17 +623,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapitre3_开始采集/scrape_one_domaine3.1.py">
+    <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrape_one_domaine3.1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="33" column="57" selection-start-line="33" selection-start-column="57" selection-end-line="33" selection-end-column="57" />
-          <folding>
-            <element signature="e#128#165#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapitre3_开始采集/scrape_all_site_3.2.py">
+    <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrape_all_site_3.2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="34" column="34" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
@@ -446,13 +661,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapitre3_开始采集/scrape_one_domaine3.1.py">
+    <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrape_one_domaine3.1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-          <folding>
-            <element signature="e#128#165#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -467,9 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-          <folding>
-            <element signature="e#119#156#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -483,28 +692,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapitre_1_urllib_basic/beautifulsoupTest1.2.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="64" lean-forward="true" selection-start-line="11" selection-start-column="64" selection-end-line="12" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapitre_1_urllib_basic/scrapetest1.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Project/Wechat_scrape.py" />
-    <entry file="file://$PROJECT_DIR$/Chapitre_1_urllib_basic/stable_use1.2.3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="16" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="46" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/my_randomlib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -526,16 +714,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapitre3_开始采集/Kevin_Bacon">
+    <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/Kevin_Bacon">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapitre2_复杂HTML解析/NavigatingTreesTest2.2.3.py">
+    <entry file="file://$PROJECT_DIR$/Chapitre12_避开采集陷阱/modifier_requests_head_12.2.1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-111">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        <state relative-caret-position="353">
+          <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrape_all_site_3.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project/Wechat_scrape/test.py" />
+    <entry file="file://$PROJECT_DIR$/Project/Wechat_scrape/img_scrape_lib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre_1_urllib_basic/beautifulsoupTest1.2.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrape_one_domaine3.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrape_by_internet_3.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="79" column="23" lean-forward="true" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -546,71 +770,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapitre12_避开采集陷阱/modifier_requests_head_12.2.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapitre3_开始采集/scrape_all_site_3.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapitre2_复杂HTML解析/CSS_test2.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapitre3_开始采集/scrape_one_domaine3.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-          <folding>
-            <element signature="e#128#165#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project/Wechat_scrape/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapitre3_开始采集/scrape_by_internet_3.3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="e#128#165#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/my_urllib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        <state relative-caret-position="675">
+          <caret line="47" column="53" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="53" />
           <folding>
             <element signature="e#115#130#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project/Wechat_scrape/img_scrape_lib.py">
+    <entry file="file://$PROJECT_DIR$/Chapitre_1_urllib_basic/scrapetest1.1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        <state relative-caret-position="90">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre_1_urllib_basic/stable_use1.2.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre2_复杂HTML解析/NavigatingTreesTest2.2.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre3_开始采集/scrapy_lib_3.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre2_复杂HTML解析/CSS_test2.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrapy_wiki_spider_3_4/wikiSpider/wikiSpider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/scrapy_wiki_spider_3_4/wikiSpider/wikiSpider/spiders/articleSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="58" lean-forward="true" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
           <folding>
-            <element signature="e#119#156#0" expanded="true" />
+            <element signature="e#0#47#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapitre3_Kai_Shi_Cai_Ji/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
         </state>
       </provider>
     </entry>
